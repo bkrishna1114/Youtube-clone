@@ -1,0 +1,86 @@
+.main{
+    /* box-shadow: 0px 0px 1px rgba(0,0,0,0.9); */
+    width:450px;
+    height: 130px;
+}
+
+.sub1{
+    width: 100px;
+    height: 130px;
+    display: inline-block;
+    margin-left: 0px;
+    vertical-align: top;
+}
+
+
+.sub1-img{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+    vertical-align: middle;
+    padding: 30px;
+    border-radius: 90px;
+}
+
+.sub2{
+    width: 100px;
+    height: 130px;
+    display: inline-block;
+    margin-left: 0px;
+    vertical-align: top;
+}
+
+.sub2-name{
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub2-name2,.sub2-name3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 10px;
+    color: rgba(0,0,0,0.9);
+}
+
+
+
+.sub3{
+    width: 240px;
+    height: 130px;
+    margin-left: 0px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.follow{
+    border: none;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top:45px;
+    margin-bottom: 45px;
+    margin-left: 140px;
+    margin-right: 60px;
+    background-color: green;
+    border-radius: 6px;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.follow:active{
+    background-color: white;
+    color: green;
+}

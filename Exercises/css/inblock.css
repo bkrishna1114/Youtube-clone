@@ -1,0 +1,124 @@
+.name{
+    width: 200px;
+    display: block;
+}
+
+.email{
+    width: 200px;
+    margin-top: 5px;
+}
+
+.chat{
+    font-size: 12px;
+    width: 150px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.yes,no{
+    font-size: 12px;
+}
+
+
+img{
+    margin-left: 370px;
+
+    display: block;
+}
+
+.google{
+    margin-left: 250px;
+    margin-right: 250px;
+    width: 500px;
+    height: 30px;
+    margin-top:10px;
+    padding-left: 20px;
+    border: none;
+    box-shadow: 0px 0px 1px rgba(0,0,0,0.5);
+    border-radius: 40px;
+    margin-bottom: 30px;
+}
+
+.fn{
+    height: 20px;
+    padding-left: 10px;
+    width: 100px;
+    display: inline-block;
+}
+.ln{
+    height: 20px;
+    padding-left: 10px;
+    width: 100px;
+}
+
+.em{
+    margin-top: 10px;
+    height: 20px;
+    width: 220px;
+    display:block;
+    padding-left: 10px;
+}
+
+
+.signup{
+    margin-top: 10px;
+    width: 230px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+
+.para{
+    font-size: 30px;
+}
+
+.pc{
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    padding-right: 100px;
+    margin-top: 5px;
+    background-color: rgba(206, 204, 204,0.3);
+    border-width: 1px;
+    font-style: bold;
+}
+
+.dp{
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    padding-right: 100px;
+    margin-top: 5px;
+    background-color: rgba(206, 204, 204,0.3);
+    border-width: 1px;
+    font-style: bold;
+}
+
+.bt{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.bt2{
+    margin-top: 10px;
+    background-color: rgb(249, 246, 246);
+    border-width: 1px;
+    color: rgb(0, 0, 0);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

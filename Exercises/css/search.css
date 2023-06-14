@@ -1,0 +1,84 @@
+.search1{
+    width: 120px;
+    height: 25px;
+    border-width: 1px;
+    border-color: rgb(113, 118, 122);
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+.search2{
+    margin-top: 20px;
+    width: 300px;
+    border: none;
+    box-shadow: 0px 0px 1px rgba(0,0,0,0.5);
+    height: 25px;
+    border-radius: 50px;
+    padding-left: 18px;
+}
+
+p{
+    margin-top: 5px;
+    color: rgb(98, 96, 96);
+    margin-bottom: 2px;
+    font-size: 14px;
+}
+
+.search3{
+    height: 20px;
+    width: 300px;
+    border-width: 2px;
+    border-color: rgba(0,0,0,0.7);
+    border-style: solid;
+    border-radius: 3px;
+}
+
+.privacy{
+    font-size: 13px;
+    padding-top: 13px;
+    
+}
+
+button{
+    background-color: green;
+    margin-top: 13px;
+    border: orange;
+    height: 40px;
+    width: 300px;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+img{
+    width: 40px;
+    height:40px;
+    border-radius: 90px;
+    margin-top: 0px;
+    vertical-align: middle;
+
+}
+
+.input{
+    height: 20px;
+    margin-top: 0px;
+    width: 200px;
+    border: none;
+
+
+}
+
+.tweet{
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+
+
+}
+
+.tweet:active{
+    width: 58px;
+    height: 28px;
+}
+
